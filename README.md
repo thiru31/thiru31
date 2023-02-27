@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thirumalaicse2020@gmail.com**
 
-- ⚡ Fun fact **HSC--Biology🧬 Bachelors--CSE💻 Masters--MBA🧾**
+- ⚡ Fun fact **HSC--Biology🧬 Bachelors--CSE💻 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
