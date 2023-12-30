@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Thirumalai</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="540" height="440" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="510" height="440" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on **Machine learning**
