@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **HSC--Biology🧬 Bachelors--CSE💻**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiru31&" alt="thiru31" /></p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=thiru31&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiru31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
